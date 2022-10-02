@@ -1,2 +1,1 @@
-# Athausic
-Used CSS ,HTML, Bootstrap
+Athausic Starting Files
